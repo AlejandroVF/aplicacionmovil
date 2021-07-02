@@ -83,7 +83,7 @@ class _DeptoPageState extends State<DeptoPage> {
     return Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.red[700],
-          title: Text('FVAlquileres'),
+          title: Text('FVAlquiler'),
           actions: <Widget>[
             Padding(
               padding: const EdgeInsets.only(right: 16.0, top: 8.0),
