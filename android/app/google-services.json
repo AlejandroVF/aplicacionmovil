@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266992703617",
+    "project_id": "aplicacion-alquiler",
+    "storage_bucket": "aplicacion-alquiler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266992703617:android:ee56ac1ca37dd9aedfd580",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266992703617-2d4k0a2lvu41euji2o0cffv35jjddjjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyecto",
+            "certificate_hash": "834e475d93a0b75da3ad9a74a6f3a1ba5bf4d6c5"
+          }
+        },
+        {
+          "client_id": "266992703617-af9ags4tpej334dehm5fn1jvnkt79kfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWws5q4i6Od4OdIXx9rIqRy11-5u7_Uw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266992703617-af9ags4tpej334dehm5fn1jvnkt79kfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
