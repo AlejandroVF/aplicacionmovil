@@ -183,7 +183,7 @@ class _DeptoPageState extends State<DeptoPage> {
                     style: TextStyle(color: Colors.white),
                   ),
                   trailing: new Icon(
-                    Icons.whatshot,
+                    Icons.favorite,
                     size: 30.0,
                     color: Colors.white,
                   ),
